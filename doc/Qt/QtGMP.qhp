@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QtHelpProject version="1.0">
+    <namespace>com.neutrino.qtgmp</namespace>
+    <virtualFolder>QtGMP</virtualFolder>
+    <customFilter name="CIOS GMP 1.6.0">
+        <filterAttribute>CIOS GMP</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+    </customFilter>
+    <filterSection>
+        <filterAttribute>CIOS GMP</filterAttribute>
+        <filterAttribute>1.6.0</filterAttribute>
+        <toc>
+            <section title="CIOS GMP Manual" ref="index.html">
+                <section title="English" ref="en/index.html"/>
+                <section title="Traditional Chinese" ref="tw/index.html"/>
+                <section title="Simplified Chinese" ref="cn/index.html"/>
+            </section>
+        </toc>
+        <keywords>
+            <keyword name="GMP" id="CIOS::GMP" ref="index.html"/>
+            <keyword name="MPIR （正體中文）" id="CIOS::MPIR::TW" ref="tw/mpir.html"/>
+            <keyword name="MPFR （正體中文）" id="CIOS::MPFR::TW" ref="tw/mpfr.html"/>
+            <keyword name="vrandom （正體中文）" id="CIOS::vrandom::TW" ref="tw/vrandom.html"/>
+            <keyword name="vlong （正體中文）" id="CIOS::vlong::TW" ref="tw/vlong.html"/>
+            <keyword name="vdouble （正體中文）" id="CIOS::vdouble::TW" ref="tw/vdouble.html"/>
+            <keyword name="vrational （正體中文）" id="CIOS::vrational::TW" ref="tw/vrational.html"/>
+            <keyword name="vprecision （正體中文）" id="CIOS::vprecision::TW" ref="tw/vprecision.html"/>
+        </keywords>
+        <files>
+            <file>*.css</file>
+            <file>*.html</file>
+            <file>images/*</file>
+            <file>tw/*</file>
+            <file>en/*</file>
+            <file>cn/*</file>
+        </files>
+    </filterSection>
+</QtHelpProject>
